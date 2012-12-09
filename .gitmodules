@@ -4,3 +4,9 @@
 [submodule "sites/all/modules/views_slideshow"]
 	path = sites/all/modules/views_slideshow
 	url = git://git.drupal.org/project/views_slideshow
+[submodule "sites/all/modules/addressfield"]
+	path = sites/all/modules/addressfield
+	url = git://git.drupal.org/project/addressfield
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = git://git.drupal.org/project/admin_menu
