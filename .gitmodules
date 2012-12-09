@@ -64,3 +64,9 @@
 [submodule "sites/all/modules/wysiwyg"]
 	path = sites/all/modules/wysiwyg
 	url = git://git.drupal.org/project/wysiwyg
+[submodule "sites/all/modules/taxonomy_display"]
+	path = sites/all/modules/taxonomy_display
+	url = git://git.drupal.org/project/taxonomy_display
+[submodule "sites/all/modules/entity_path"]
+	path = sites/all/modules/entity_path
+	url = git://git.drupal.org/project/entity_path
