@@ -31,3 +31,6 @@
 [submodule "sites/all/modules/imce_mkdir"]
 	path = sites/all/modules/imce_mkdir
 	url = git://git.drupal.org/project/imce_mkdir
+[submodule "sites/all/modules/imce_wysiwyg"]
+	path = sites/all/modules/imce_wysiwyg
+	url = git://git.drupal.org/project/imce_wysiwyg
