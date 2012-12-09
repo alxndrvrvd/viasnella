@@ -16,3 +16,6 @@
 [submodule "sites/all/modules/ctools"]
 	path = sites/all/modules/ctools
 	url = git://git.drupal.org/project/ctools
+[submodule "sites/all/modules/elysia_cron"]
+	path = sites/all/modules/elysia_cron
+	url = git://git.drupal.org/project/elysia_cron
