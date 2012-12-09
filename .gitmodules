@@ -49,3 +49,6 @@
 [submodule "sites/all/modules/module_filter"]
 	path = sites/all/modules/module_filter
 	url = git://git.drupal.org/project/module_filter
+[submodule "sites/all/modules/panels"]
+	path = sites/all/modules/panels
+	url = git://git.drupal.org/project/panels
