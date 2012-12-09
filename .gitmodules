@@ -19,3 +19,6 @@
 [submodule "sites/all/modules/elysia_cron"]
 	path = sites/all/modules/elysia_cron
 	url = git://git.drupal.org/project/elysia_cron
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = git://git.drupal.org/project/entity
