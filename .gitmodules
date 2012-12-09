@@ -28,3 +28,6 @@
 [submodule "sites/all/modules/imce"]
 	path = sites/all/modules/imce
 	url = git://git.drupal.org/project/imce
+[submodule "sites/all/modules/imce_mkdir"]
+	path = sites/all/modules/imce_mkdir
+	url = git://git.drupal.org/project/imce_mkdir
