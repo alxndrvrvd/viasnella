@@ -40,3 +40,6 @@
 [submodule "sites/all/modules/libraries"]
 	path = sites/all/modules/libraries
 	url = git://git.drupal.org/project/libraries
+[submodule "sites/all/modules/link"]
+	path = sites/all/modules/link
+	url = git://git.drupal.org/project/link
