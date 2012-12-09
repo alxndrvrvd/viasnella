@@ -43,3 +43,6 @@
 [submodule "sites/all/modules/link"]
 	path = sites/all/modules/link
 	url = git://git.drupal.org/project/link
+[submodule "sites/all/modules/metatag"]
+	path = sites/all/modules/metatag
+	url = git://git.drupal.org/project/metatag
