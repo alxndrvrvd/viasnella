@@ -10,7 +10,8 @@ define('CSS_NS_FRAMEWORK', -200);
  * Implements hook_preprocess_html
  */
 function ninesixty_preprocess_html(&$vars) {
-  $vars['classes_array'][] = 'show-grid';
+  //$vars['classes_array'][] = 'show-grid';
+  $vars['classes_array'][] = 'html';
 }
 
 /**
