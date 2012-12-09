@@ -25,3 +25,6 @@
 [submodule "sites/all/modules/globalredirect"]
 	path = sites/all/modules/globalredirect
 	url = git://git.drupal.org/project/globalredirect
+[submodule "sites/all/modules/imce"]
+	path = sites/all/modules/imce
+	url = git://git.drupal.org/project/imce
