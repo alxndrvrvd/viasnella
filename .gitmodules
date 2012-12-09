@@ -46,3 +46,6 @@
 [submodule "sites/all/modules/metatag"]
 	path = sites/all/modules/metatag
 	url = git://git.drupal.org/project/metatag
+[submodule "sites/all/modules/module_filter"]
+	path = sites/all/modules/module_filter
+	url = git://git.drupal.org/project/module_filter
