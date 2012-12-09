@@ -22,3 +22,6 @@
 [submodule "sites/all/modules/entity"]
 	path = sites/all/modules/entity
 	url = git://git.drupal.org/project/entity
+[submodule "sites/all/modules/globalredirect"]
+	path = sites/all/modules/globalredirect
+	url = git://git.drupal.org/project/globalredirect
